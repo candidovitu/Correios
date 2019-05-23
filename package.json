@@ -1,0 +1,25 @@
+{
+  "name": "correios",
+  "version": "1.0.0",
+  "description": "Alguns comandos legais para Discord, sobre os Correios.",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "request": "^2.88.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candidovitu/Correios.git"
+  },
+  "author": "iVituu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candidovitu/Correios/issues"
+  },
+  "homepage": "https://github.com/candidovitu/Correios#readme"
+}
