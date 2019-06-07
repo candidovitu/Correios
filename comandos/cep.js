@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const request = require('request');
-exports.run = async (client, msg, embed = [])=>{
+exports.run = async (client, msg, args = [])=>{
 
 const cep = args.join('');
 
